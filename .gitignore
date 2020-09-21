@@ -86,3 +86,4 @@ System.Numerics.Vectors.xml
 SharpDX.dll
 SharpDX.Direct3D9.xml
 Gma.System.MouseKeyHook.dll
+obj/
