@@ -48,6 +48,7 @@ Temporary Items
 
 # VS folders
 [Bb]in
+[Oo]bj
 [Dd]ebug*/
 [Rr]elease*/
 .vs*/
