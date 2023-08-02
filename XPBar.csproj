@@ -7,7 +7,7 @@
     <OutputType>Library</OutputType>
     <UseWindowsForms>true</UseWindowsForms>
     <ImportWindowsDesktopTargets>true</ImportWindowsDesktopTargets>
-    <OutputPath>..\..\..\..\PoeHelper\Plugins\Compiled\XPBar\</OutputPath>
+    <OutputPath>..\..\..\..\..\PoeHelper\Plugins\Compiled\XPBar\</OutputPath>
   </PropertyGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\..\Core\Core.csproj">
